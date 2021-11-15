@@ -2,7 +2,7 @@
 
 Register on dependency
 
-![image](https://user-images.githubusercontent.com/57223732/141736806-7177631c-3f0a-4d43-b237-0c63f18be830.png)
+![image](https://user-images.githubusercontent.com/57223732/141737319-315c2397-bb16-4f6e-a25f-936566f9a44d.png)
 
 Create options Dto 
 
